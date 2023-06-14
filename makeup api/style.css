@@ -1,0 +1,46 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .input-group {
+    margin: 0 auto;
+    max-width: 500px;
+  }
+  
+  #search-input {
+    border-color: #0a99f8;
+    stroke: none;
+     display: flex;
+     margin: 5px;
+     align-items: center;
+    padding: 20px;
+    border-radius: 10%;
+    background-color: rgb(222, 225, 238); 
+  }
+  
+  #search-button {
+    background-color: #6aa4d6;
+    border-color: #ceb4b5;
+    color: #fff;
+    flex: 1;
+    align-items: center;
+    margin-right: 10px;
+    border-radius: 10%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  .card-img-top {
+    height: 300px;
+    object-fit: cover;
+    border-radius: 15px;
+  }
+  .container {
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f8f9fa;
+  }
+
+  
